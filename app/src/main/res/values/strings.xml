@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EduAR</string>
+
+    <string-array name="programming_languages">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Is extremely fast &amp; used extensively in embedded systems.</item>
+        <item>Is derived from C but makes use of object oriented concepts &amp; is thus more capable &amp; used in game development.</item>
+        <item>Is an object-oriented programming language that inspired the creation of JavaScript.It is used extensively in Web &amp; Mobile app development.</item>
+    </string-array>
+</resources>
